@@ -1,5 +1,10 @@
 {
   "version": 2,
   "title": "Example community starter",
-  "description": "An example of a community starter"
+  "description": "An example of a community starter",
+  "previewMedia": {
+    "type": "image",
+    "src":"assets/studio.png",
+    "alt": "Sanity Studio"
+  }
 }
